@@ -4,7 +4,7 @@ import Image from 'next/image';
 
 export default function Home() {
 	return (
-		<main className='text-center max-w-[1200px] w-full md:mx-auto mb-[400px]'>
+		<main className='text-center max-w-[1200px] w-full md:mx-auto mb-20'>
 			<h1 className='max-w-2xl mx-auto mt-10 text-xl font-medium'>
 				Komitet wyborczy utworzony w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej
 				zarządzonych na dzień 7 kwietnia 2024
