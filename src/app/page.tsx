@@ -13,7 +13,7 @@ export default function Home() {
 				<div>
 					<h2 className='font-medium text-lg mb-2'>Dane komitetu</h2>
 					<p>Komitet Wyborczy Wyborców Łukasza Kołodzieja</p>
-					<p>ul. Pitiniówka 35/1</p>
+					<p>ul. Pitoniówka 35/1</p>
 					<p>34-511 Kościelisko</p>
 					<p>Numer konta bankowego: </p>
 					<p>REGON:</p>
